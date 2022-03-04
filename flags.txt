@@ -1,0 +1,18 @@
+--file C:\Users\citio\OneDrive\Pulpit\example.txt
+--newlines -n -d --digits               -dd --numbers
+
+
+--chars         -c -w --words --sorted                                      -s
+-rs                             --reverse-sorted
+
+-l -l -l --by-length --by-length -s         -l -l -l      -l     -l -rs
+
+--digits-sum
+
+--help
+
+
+
+  -p xdx oko sedes dupa xanax
+
+
