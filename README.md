@@ -8,7 +8,7 @@ This Project is a simple command line program which is capable of displaying var
 4. numbers quantity
 5. lines quantity
 6. sorting elements (increasing,decreasing or by length)
-7. search for certain elements
-8. search for certain elements that fits into criteria (e.g. palindromes or anagrams)
+7. searching for certain elements
+8. searching for certain elements that match into criteria (e.g. palindromes or anagrams)
 
 kG.
